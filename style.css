@@ -1,0 +1,67 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: georgia, arial, serif;
+  margin: 2em;
+  background: url(https://cdn.glitch.com/2cbb89e1-11c1-49e8-8882-4e76648b99ec%2F1170573.jpg?v=1616607892069);
+  color: #7b2f8a;
+}
+
+h1 {
+  font-family: Lucida Handwriting, arial, cursive;
+  font-style: bold;
+  color: #7a1849;
+}
+
+button {
+  padding: 10px;
+  border-radius: 15px;
+  color: white;
+  background: #F954AF;
+}
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+#button1 {
+  background: #ad0000;
+}
+
+#button2 {
+  background: #006317;
+}
+
+#button3 {
+  background: #00347d;
+}
+
+#button4 {
+  background: #4f007d;
+}
+
+#button1:active,
+#button1.lit {
+  background: #ff0000;
+}
+
+#button2:active,
+#button2.lit {
+  background: #00c72e;
+}
+
+#button3:active,
+#button3.lit {
+  background: #006aff;
+}
+
+#button4:active,
+#button4.lit {
+  background: #a100ff;
+}
+
+.hidden {
+  display: none;
+}
