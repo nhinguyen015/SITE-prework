@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="https://cdn.glitch.com/2cbb89e1-11c1-49e8-8882-4e76648b99ec%2F2cbb89e1-11c1-49e8-8882-4e76648b99ec-2021-03-24-10-49-18_LRnbvopf_40YG.gif?v=16166193368960" />
+<img src="2cbb89e1-11c1-49e8-8882-4e76648b99ec-2021-03-24-10-49-18_LRnbvopf_40YG.gif" />
 
 
 ## Reflection Questions
